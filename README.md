@@ -18,4 +18,4 @@ If you find this code useful for your research, please cite our paper
 
 # Acknowledgements
 
-Thanks to Yixiao Ge for opening source of his excellent works  [cluster contrast](https://github.com/alibaba/cluster-contrast-reid). 
+Thanks for opening source of his excellent works  [cluster contrast](https://github.com/alibaba/cluster-contrast-reid). 
